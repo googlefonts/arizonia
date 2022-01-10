@@ -147,20 +147,24 @@ name = typoLineGap;
 value = 0;
 },
 {
-name = winAscent;
-value = 938;
-},
-{
-name = winDescent;
-value = 362;
-},
-{
 name = hheaAscender;
 value = 938;
 },
 {
 name = hheaDescender;
 value = -362;
+},
+{
+name = hheaLineGap;
+value = 0;
+},
+{
+name = winAscent;
+value = 938;
+},
+{
+name = winDescent;
+value = 362;
 },
 {
 name = strikeoutPosition;
@@ -32476,16 +32480,7 @@ note = Robbie;
 );
 instances = (
 {
-customParameters = (
-{
-name = postscriptFullName;
-value = Arizonia;
-},
-{
-name = postscriptFontName;
-value = Arizonia;
-}
-);
+interpolationWeight = 400;
 instanceInterpolations = {
 "F2190ACF-0345-4BD7-9FAD-2D95E96981D2" = 1;
 };
