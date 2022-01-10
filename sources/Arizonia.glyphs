@@ -285,6 +285,25 @@ width = 437;
 note = .notdef;
 },
 {
+glyphname = CR;
+layers = (
+{
+layerId = "F2190ACF-0345-4BD7-9FAD-2D95E96981D2";
+width = 600;
+}
+);
+unicode = 000D;
+},
+{
+glyphname = .null;
+layers = (
+{
+layerId = "F2190ACF-0345-4BD7-9FAD-2D95E96981D2";
+width = 600;
+}
+);
+},
+{
 glyphname = space;
 layers = (
 {
@@ -297,12 +316,14 @@ unicode = 0020;
 },
 {
 glyphname = nbspace;
+lastChange = "2022-01-10 19:20:26 +0000";
 layers = (
 {
 layerId = "F2190ACF-0345-4BD7-9FAD-2D95E96981D2";
 width = 267;
 }
 );
+widthMetricsKey = space;
 note = nbspace;
 unicode = 00A0;
 },
