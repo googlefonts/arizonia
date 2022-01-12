@@ -142,7 +142,7 @@ value = 900;
 },
 {
 name = typoDescender;
-value = -400;
+value = -350;
 },
 {
 name = typoLineGap;
@@ -154,7 +154,7 @@ value = 900;
 },
 {
 name = hheaDescender;
-value = -400;
+value = -350;
 },
 {
 name = hheaLineGap;
@@ -166,7 +166,7 @@ value = 900;
 },
 {
 name = winDescent;
-value = 400;
+value = 350;
 },
 {
 name = strikeoutPosition;
@@ -334,22 +334,22 @@ note = .notdef;
 },
 {
 glyphname = CR;
-lastChange = "2022-01-10 21:39:40 +0000";
+lastChange = "2022-01-11 01:40:43 +0000";
 layers = (
 {
 layerId = "F2190ACF-0345-4BD7-9FAD-2D95E96981D2";
-width = 600;
+width = 0;
 }
 );
 unicode = 000D;
 },
 {
 glyphname = .null;
-lastChange = "2022-01-10 21:39:40 +0000";
+lastChange = "2022-01-11 01:42:16 +0000";
 layers = (
 {
 layerId = "F2190ACF-0345-4BD7-9FAD-2D95E96981D2";
-width = 600;
+width = 0;
 }
 );
 },
@@ -56829,5 +56829,5 @@ manufacturer = "Robert E. Leuschke";
 manufacturerURL = www.typesetit.com;
 unitsPerEm = 1000;
 versionMajor = 1;
-versionMinor = 4;
+versionMinor = 5;
 }
